@@ -1,0 +1,80 @@
+{
+  "images" : [
+    {
+      "filename" : "skincare5 Small.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "skincare5 Small 10.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "skincare5 Small 11.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "skincare5 Small 1.jpeg",
+      "idiom" : "universal",
+      "locale" : "ar",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "skincare5 Small 2.jpeg",
+      "idiom" : "universal",
+      "locale" : "ar",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "skincare5 Small 3.jpeg",
+      "idiom" : "universal",
+      "locale" : "ar",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "skincare5 Small 4.jpeg",
+      "idiom" : "universal",
+      "locale" : "en",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "skincare5 Small 5.jpeg",
+      "idiom" : "universal",
+      "locale" : "en",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "skincare5 Small 6.jpeg",
+      "idiom" : "universal",
+      "locale" : "en",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "skincare5 Small 7.jpeg",
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "skincare5 Small 8.jpeg",
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "skincare5 Small 9.jpeg",
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}
